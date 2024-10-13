@@ -1,2 +1,2 @@
 # MineSweeper.cpp
-Minesweeper game 
+Mine sweeper game.
